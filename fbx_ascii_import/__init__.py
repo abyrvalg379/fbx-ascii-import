@@ -5,7 +5,7 @@
 bl_info = {
     "name": "GEO/FBX Auto Import",
     "author": "Maksim Kovalev",
-    "version": (2, 0, 1),
+    "version": (1, 0),
     "blender": (4, 2, 0),
     "location": "File > Import > GEO/FBX Auto (.fbx .geo)",
     "description": "Import Houdini GEO and FBX ASCII files with auto-format detection",
