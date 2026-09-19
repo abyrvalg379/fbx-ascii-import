@@ -28,7 +28,7 @@ Houdini по умолчанию экспортирует FBX в ASCII — а в�
 
 Требуется Blender 4.2+
 
-1. Скачайте `fbx_ascii_import.zip` со страницы [Releases](../../releases)
+1. Скачайте `fbx_ascii_import.zip` со страницы [последнего релиза](https://github.com/abyrvalg379/fbx-ascii-import/releases/latest)
 2. Blender → Edit → Preferences → Add-ons → Install…
 3. Включите **Import-Export: GEO/FBX Auto Import**
 
