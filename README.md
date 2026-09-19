@@ -44,7 +44,7 @@ Requires Blender 4.2+
 
 GPL-2.0-or-later — see [LICENSE](LICENSE).
 
-Author: **Maksim Kovalev** — VVERH Studio
+Author: **Maksim Kovalev**
 
 ---
 
@@ -94,4 +94,4 @@ Houdini по умолчанию экспортирует FBX в ASCII — а в�
 
 GPL-2.0-or-later — см. [LICENSE](LICENSE).
 
-Автор: **Maksim Kovalev** — VVERH Studio
+Автор: **Maksim Kovalev**
