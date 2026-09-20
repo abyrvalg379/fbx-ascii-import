@@ -1,5 +1,7 @@
 # GEO/FBX Auto Import
 
+![GEO/FBX Auto Import](cover.png)
+
 Blender addon for importing **ASCII FBX** (the format Houdini exports by default) and **Houdini .geo** files, with automatic format detection.
 
 *Документация на русском: [README.ru.md](README.ru.md)*
